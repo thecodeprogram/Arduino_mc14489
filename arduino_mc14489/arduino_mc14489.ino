@@ -1,3 +1,11 @@
+/*
+This File Created
+By: Burak Hamdi TUFAN
+On: https://thecodeprogram.com/
+At: 01.11.2020
+*/
+
+
 //Firstly we have to define the pinouts
 int data = 5;
 int clk = 6;
